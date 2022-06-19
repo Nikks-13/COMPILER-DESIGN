@@ -1,5 +1,5 @@
 # COMPILER-DESIGN
-S No. Title Date
+S No.
 1. Implementation of Lexical Analyzer 
 2. Conversion from Regular Expression to NFA 
 3. Conversion from NFA to DFA 
